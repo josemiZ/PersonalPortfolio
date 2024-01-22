@@ -1,13 +1,13 @@
 # José Miguel Zea Guerrero
 Hola mundo! Soy un desarrollador Android de 7 años de experiencia, el cuál se enfoca en la mejora continua y en el análisis técnico de aplicaciones móviles.
 
-[![Email](https://cdn-icons-png.flaticon.com/512/561/561127.png)](mailto:jzeaguerrero@gmail.com)
-[![LinkedIn](https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png)](https://www.linkedin.com/in/mzea/)
+[Email](mailto:jzeaguerrero@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mzea/)
 
 ## Rappi
 Aplicación de repartición de comidas, farmacias, etc. Esta app nos permite conectar a las personas y restaurantes para así facilitarles la compra.
 
-[![Rappi](https://play-lh.googleusercontent.com/7wwBBFFQ_f5uigVSqI3oSxpSqoTlJOc-gui3nRccY4gZNqiSMl5d3nUIYXWTob6qgyQ=w480-h960)](https://play.google.com/store/apps/details?id=com.grability.rappi&hl=es_CO)
+[![Rappi](https://play-lh.googleusercontent.com/7wwBBFFQ_f5uigVSqI3oSxpSqoTlJOc-gui3nRccY4gZNqiSMl5d3nUIYXWTob6qgyQ=s128)](https://play.google.com/store/apps/details?id=com.grability.rappi&hl=es_CO)
 
 ### Tecnología
 Kotlin, Jetpack Compose, Jetpack Navigation, MVVM, Clean Architecture, Coil, Retrofit, Gson, Firebase
@@ -18,7 +18,7 @@ Fui parte del desarrollo de tracking de la orden, el cual muestra una parte vita
 ## Scotiabank
 Aplicación bancaria que se encarga de brindar los datos financieros a los clientes del banco.
 
-[![Scotiabank](https://play-lh.googleusercontent.com/bX-2nxLIzRoDZBf_wMVI_VIB8NgnochPebM8aDMGe3wqEYz6dSQZsJjZ4F5j8OMM86S2=w480-h960)](https://play.google.com/store/apps/details?id=pe.com.scotiabank.blpm.android.client&hl=es_CO)
+[![Scotiabank](https://play-lh.googleusercontent.com/bX-2nxLIzRoDZBf_wMVI_VIB8NgnochPebM8aDMGe3wqEYz6dSQZsJjZ4F5j8OMM86S2=s128)](https://play.google.com/store/apps/details?id=pe.com.scotiabank.blpm.android.client&hl=es_CO)
 
 ### Tecnología
 Java, Kotlin, MVVM, XML, Groovy, Clean Architecture, Retrofit, Gson, Firebase
